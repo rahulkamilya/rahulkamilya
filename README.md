@@ -1,5 +1,7 @@
+[![image](https://www.linkpicture.com/q/1664975630659.jpeg)](https://www.linkpicture.com/view.php?img=LPic6400a85deaeb92005233946)
+
 <h1 align="center">Hi 👋, I'm Rahul Kamilya</h1>
-<h3 align="center">Cybersecurity Enthusiast [Would be developer]</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14FF00&center=true&vCenter=true&width=435&lines=I'm+a+Student;JIS+University+26%22;Web+Developer+%7C%7C+Cyber+Security+" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkamilya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkamilya" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 🧭 Exploreing... **Technologies**
 
-- 📝 I write articles on [https://dscjisu.vercel.app/blog](https://dscjisu.vercel.app/blog)
+- 📝 I write articles on [Here !!](https://dscjisu.in/blog)
 
 - 📫 Reach me **rahulkamilya09@gmail.com**
 
