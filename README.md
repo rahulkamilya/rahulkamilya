@@ -29,6 +29,9 @@
 
 <br><br>
 
-<p align="bottom">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkamilya&show_icons=true&locale=en" alt="rahulkamilya" /></p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkamilya&" alt="rahulkamilya" /></p>
-
+<a href="https://github.com/rahulkamilya/github-readme-stats">
+  <img width= 49%  style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=rahulkamilya&theme=dark&hide_border=true&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/rahulkamilya/convoychat">
+  <img width= 49% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkamilya&amp;theme=dark&amp;hide_border=true" />
+</a>
