@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kamilyatwt?style=social)](https://twitter.com/intent/follow?screen_name=kamilyatwt) [![Linkedin Badge](https://img.shields.io/badge/-rahulkamilya-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahulkamilya)](https://www.linkedin.com/in/rahulkamilya) [![GitHub followers](https://img.shields.io/github/followers/rahulkamilya?label=Follow&style=social)](https://github.com/rahulkamilya/?tab=follow) [![Facebook Badge](https://img.shields.io/badge/-rahulkamilya09?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/rahulkamilya09)](https://www.facebook.com/rahulkamilya09) [![Instagram Badge](https://img.shields.io/badge/-@mr_rahulkamilya?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/mr_rahulkamilya)](https://www.instagram.com/mr_rahulkamilya)
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif">
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif">
 <br> <p align="left">
   
 - 🔭 I’m currently focusing on... **Web Development**
