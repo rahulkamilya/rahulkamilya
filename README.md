@@ -16,7 +16,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=rahulkamilya&icon=0&color=0)](https://visitcount.itsvg.in)   
 
-<h3 align="left">Connect with me:</h3> <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<h3 align="left">Connect with me:</h3> <img align="right" alt="coding" width="350" src="https://i.postimg.cc/RFs0LWX2/1735908254248.gif">
 <br> <p align="left">
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahulkamilya09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_rahulkamilya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkamilya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kamilyatwt)
